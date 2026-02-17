@@ -26,4 +26,4 @@ We reserve the right to modify these terms at any time. We usually will do this 
 
 ## 6. Contact Us
 
-If you have any questions about these Terms and Conditions, please contact us at **hardikjain826@gmail.com**.
+If you have any questions about these Terms and Conditions, please contact us at **intentional.labs.app@gmail.com**.

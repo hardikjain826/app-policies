@@ -9,4 +9,4 @@ Welcome to the official policy repository for my applications.
 - [Terms & Conditions](/app-policies/instant-led-banner/terms-conditions)
 
 ---
-*For support, please contact: hardikjain826@gmail.com*
+*For support, please contact: intentional.labs.app@gmail.com*

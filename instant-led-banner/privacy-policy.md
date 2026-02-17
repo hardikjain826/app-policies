@@ -33,5 +33,5 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-*   **Email:** hardikjain826@gmail.com
+*   **Email:** intentional.labs.app@gmail.com
 *   **GitHub:** https://github.com/hardikjain826
