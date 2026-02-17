@@ -2,7 +2,7 @@
 
 **Last Updated: February 17, 2026**
 
-Please read these terms and conditions carefully before using the **Instant LED Banner** application operated by **Hardik Jain**.
+Please read these terms and conditions carefully before using the **Instant LED Banner** application operated by **Intentional Labs**.
 
 ## 1. Conditions of Use
 
@@ -10,7 +10,7 @@ By downloading or using the app, these terms will automatically apply to you. Yo
 
 ## 2. Intellectual Property
 
-The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Hardik Jain.
+The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Intentional Labs.
 
 ## 3. Restrictions
 

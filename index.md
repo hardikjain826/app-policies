@@ -1,12 +1,5 @@
-# Hardik Jain - App Policies
+# Intentional Labs - App Policies
 
-Welcome to the official policy repository for my applications.
+Welcome to the official policy repository for Intentional Labs.
 
-## Apps
-
-### [Instant LED Banner](/app-policies/instant-led-banner/privacy-policy)
-- [Privacy Policy](/app-policies/instant-led-banner/privacy-policy)
-- [Terms & Conditions](/app-policies/instant-led-banner/terms-conditions)
-
----
 *For support, please contact: intentional.labs.app@gmail.com*

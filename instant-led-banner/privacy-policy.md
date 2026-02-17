@@ -2,7 +2,7 @@
 
 **Last Updated: February 17, 2026**
 
-This Privacy Policy describes how **Hardik Jain** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **Instant LED Banner** (the "Service").
+This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **Instant LED Banner** (the "Service").
 
 ## 1. Information Collection
 
@@ -34,4 +34,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 If you have any questions about this Privacy Policy, please contact us at:
 
 *   **Email:** intentional.labs.app@gmail.com
-*   **GitHub:** https://github.com/hardikjain826
+
