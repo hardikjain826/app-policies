@@ -2,7 +2,7 @@
 
 **Last Updated: March 29, 2026**
 
-Please read these terms and conditions carefully before using the **Nightly: Lower Screen Brightness** application operated by **Intentional Labs**.
+Please read these terms and conditions carefully before using the **Lux: Lower Screen Brightness** application operated by **Intentional Labs**.
 
 ## 1. Conditions of Use
 
@@ -18,7 +18,7 @@ You are not allowed to copy, or modify the app, any part of the app, or our trad
 
 ## 4. App Functionality
 
-Nightly is a screen dimming application that uses an overlay and Android's Accessibility Service to reduce screen brightness below the system minimum. The app operates entirely on your device. The effectiveness of screen dimming may vary depending on your device manufacturer, Android version, and system settings. We do not guarantee compatibility with all devices or third-party launchers.
+Lux is a screen dimming application that uses an overlay and Android's Accessibility Service to reduce screen brightness below the system minimum. The app operates entirely on your device. The effectiveness of screen dimming may vary depending on your device manufacturer, Android version, and system settings. We do not guarantee compatibility with all devices or third-party launchers.
 
 ## 5. Disclaimer
 

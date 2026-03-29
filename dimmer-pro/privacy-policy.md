@@ -1,8 +1,8 @@
-# Privacy Policy for Nightly: Lower Screen Brightness
+# Privacy Policy for Lux: Lower Screen Brightness
 
 **Last Updated: March 29, 2026**
 
-This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **Nightly: Lower Screen Brightness** (the "Service").
+This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **Lux: Lower Screen Brightness** (the "Service").
 
 ## 1. Information Collection
 
