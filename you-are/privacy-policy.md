@@ -31,7 +31,7 @@ This data is never transmitted off your device and is deleted when you uninstall
 The app may request the following permissions:
 
 *   **Post Notifications:** Used to schedule local daily affirmation reminder notifications on your device. Notification content is generated entirely on-device and no data is transmitted to external servers.
-*   **Exact Alarm / Boot Completed:** Used to ensure your daily reminders persist across device restarts.
+*   **Boot Completed:** Used to reschedule your daily reminders after a device restart, so they continue working without needing to open the app.
 
 ## 4. Third-Party Services
 
