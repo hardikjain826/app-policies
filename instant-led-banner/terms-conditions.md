@@ -1,29 +1,36 @@
-# Terms and Conditions
+# Terms and Conditions for Instant LED Banner
 
-**Last Updated: February 17, 2026**
+**Last Updated: April 23, 2026**
 
-Please read these terms and conditions carefully before using the **Instant LED Banner** application operated by **Intentional Labs**.
+By using Instant LED Banner, you agree to these terms. We’ve kept them short because we value your time as much as your focus.
 
-## 1. Conditions of Use
+---
 
-By downloading or using the app, these terms will automatically apply to you. You should make sure therefore that you read them carefully before using the app.
+## 1. Ownership & Use
 
-## 2. Intellectual Property
+The app, its code, and its design belong to Intentional Labs. You are welcome to use it for personal or professional display purposes. You may not attempt to copy, modify, or extract our source code.
 
-The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Intentional Labs.
+## 2. Pro Subscriptions & Purchases
 
-## 3. Restrictions
+We offer "Pro" features through Weekly, Monthly, and Yearly subscriptions, as well as a one-time Lifetime purchase.
 
-You are not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You are not allowed to attempt to extract the source code of the app.
+- **Billing:** All payments are processed securely by the Google Play Store.
+- **Free Trials:** If offered, trials automatically convert to a paid subscription unless cancelled at least 24 hours before the trial ends.
+- **Lifetime Access:** "Lifetime" refers to the lifespan of the application. It is a one-time payment with no recurring fees.
 
-## 4. Disclaimer
+## 3. Cancellations & Refunds
 
-The app is provided "as is" and "as available" basis. The developer makes no representations or warranties of any kind, express or implied, regarding the operation or availability of the app.
+- **Cancellations:** You can manage or cancel your subscription at any time through your Google Play Account Settings.
+- **Refunds:** Since all transactions are handled by Google, refund requests must be submitted directly to the Google Play Store. Intentional Labs cannot process refunds directly.
+
+## 4. Disclaimer of Warranty
+
+We build with intent and care, but the app is provided "as is." We are not responsible for any specific outcomes of your use of the app, including battery drain or device performance during long sessions of high-brightness use.
 
 ## 5. Changes to This Agreement
 
-We reserve the right to modify these terms at any time. We usually will do this by publishing the new terms on this page.
+We may update these terms to reflect new features or changes in law. The latest version will always be available here.
 
 ## 6. Contact Us
 
-If you have any questions about these Terms and Conditions, please contact us at **intentional.labs.app@gmail.com**.
+Questions? Reach out to the maker at: **intentional.labs.app@gmail.com**
