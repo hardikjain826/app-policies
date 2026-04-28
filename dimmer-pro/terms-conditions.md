@@ -1,33 +1,33 @@
-# Terms and Conditions
+# Terms and Conditions for Lux: Lower Screen Brightness
 
-**Last Updated: March 29, 2026**
+**Last Updated: April 28, 2026**
 
-Please read these terms and conditions carefully before using the **Lux: Lower Screen Brightness** application operated by **Intentional Labs**.
+By downloading or using the Lux application, these terms will automatically apply to you. You should make sure that you read them carefully before using the app.
 
-## 1. Conditions of Use
-
-By downloading or using the app, these terms will automatically apply to you. You should make sure therefore that you read them carefully before using the app.
+## 1. Use of the App
+Lux is a tool intended to dim your device screen. You are responsible for ensuring that the dim level you set allows for safe operation of your device. Intentional Labs is not responsible for any inability to see the screen due to excessive dimming.
 
 ## 2. Intellectual Property
+The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, belong to Intentional Labs. You are not allowed to copy, modify, or attempt to extract the source code of the app.
 
-The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Intentional Labs.
+## 3. In-App Purchases
+**Lux Pro:** We offer a one-time purchase ("Lifetime") to unlock premium features. Please note that "lifetime" access means the lifespan of the app itself.
 
-## 3. Restrictions
+**Payments:** All transactions are processed via the Google Play Store.
 
-You are not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You are not allowed to attempt to extract the source code of the app.
+**Refunds:** Refund requests are governed by the Google Play Store’s refund policy.
 
-## 4. App Functionality
+## 4. Accessibility Service Usage
+The app requires the use of the Accessibility Service API to dim the system UI. By enabling this feature, you acknowledge that this is necessary for the app's performance. You can revoke this permission at any time.
 
-Lux is a screen dimming application that uses an overlay and Android's Accessibility Service to reduce screen brightness below the system minimum. The app operates entirely on your device. The effectiveness of screen dimming may vary depending on your device manufacturer, Android version, and system settings. We do not guarantee compatibility with all devices or third-party launchers.
+## 5. Disclaimer of Warranties
+The app is provided "as is" and "as available." We do not warrant that the app will be error-free or that access will be continuous or uninterrupted. Use of the app is at your own discretion and risk.
 
-## 5. Disclaimer
+## 6. Limitation of Liability
+To the maximum extent permitted by law, Intentional Labs shall not be liable for any indirect, incidental, or consequential damages resulting from the use or inability to use the app.
 
-The app is provided on an "as is" and "as available" basis. The developer makes no representations or warranties of any kind, express or implied, regarding the operation or availability of the app. Prolonged use of screen dimming overlays in combination with system brightness adjustments is at the user's discretion.
+## 7. Termination
+We may terminate or suspend access to our app immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
 
-## 6. Changes to This Agreement
-
-We reserve the right to modify these terms at any time. We usually will do this by publishing the new terms on this page.
-
-## 7. Contact Us
-
+## 8. Contact Us
 If you have any questions about these Terms and Conditions, please contact us at **intentional.labs.app@gmail.com**.

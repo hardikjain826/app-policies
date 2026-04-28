@@ -1,44 +1,40 @@
 # Privacy Policy for Lux: Lower Screen Brightness
 
-**Last Updated: March 29, 2026**
+**Last Updated: April 28, 2026**
 
 This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **Lux: Lower Screen Brightness** (the "Service").
 
-## 1. Information Collection
+## 1. Information Collection and Use
+Lux is designed as a minimalist utility. We do not require account registration.
 
-**We do not collect any personal data.**
+**Personal Data:** We do not collect personally identifiable information such as your name, email address, or phone number.
 
-The Service operates entirely locally on your device. We do not transmit, store, or share any personal information, location data, or usage analytics to external servers.
+## 2. Accessibility Service API (Crucial)
+Lux uses the Android Accessibility Service API to provide its core functionality:
 
-## 2. Permissions
+**Purpose:** To create a system-wide dimming overlay that covers the entire screen, including the notification shade and navigation bar.
 
-The app requests the following permissions to function:
+**Data Privacy:** We do not use the Accessibility Service to collect, store, or share any personal or sensitive user data. We do not monitor your screen content, keystrokes, or interactions with other applications.
 
-*   **Display Over Other Apps (Overlay):** Used to draw a semi-transparent black overlay on top of your screen to reduce brightness below the system minimum. This overlay does not read or capture any screen content.
-*   **Accessibility Service:** Used solely to extend the dimming overlay above all system UI elements — including the status bar, notification shade, and navigation bar — so that the full screen is uniformly dimmed. The Accessibility Service does not read, record, or transmit any on-screen content, keystrokes, or personal information.
-*   **Foreground Service:** Used to keep the dimming overlay active while you use other apps. This service does not communicate with any external servers.
-*   **Post Notifications:** Used to display a persistent notification while the dimming service is active, as required by Android for foreground services. The notification also provides optional quick controls for adjusting the dim level.
-*   **Receive Boot Completed:** Used to optionally restore your dimming settings automatically after the device restarts, if you have enabled the auto-start feature.
-*   **Write Settings (Android 13 and below only):** Used to adjust system screen brightness alongside the overlay on supported devices.
+**User Consent:** This service is only activated with your explicit permission. You may disable this at any time in your device settings.
 
-## 3. Local Storage
+## 3. Third-Party Services
+To manage features and monetization, we use the following third-party services:
 
-Your preferences (dim level, on/off state, notification control setting, and auto-start setting) are stored locally on your device using Android's DataStore. This data is never transmitted off your device and is deleted when you uninstall the app.
+* **Google Play Services:** For core app functionality.
+* **Google Play Billing:** To process purchases securely.
+* **Adapty:** To manage paywalls and analyze anonymized purchase data to improve our offerings.
 
-## 4. Third-Party Services
-
-The app does not use any third-party analytics or advertising services that collect data.
+## 4. Data Security
+We prioritize the security of your data. Since we do not collect personal information, your data risk is minimized. Any anonymized diagnostic data is handled through industry-standard encrypted channels by our third-party providers.
 
 ## 5. Children's Privacy
+Our services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children.
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13.
-
-## 6. Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
+## 6. Changes to This Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## 7. Contact Us
-
 If you have any questions about this Privacy Policy, please contact us at:
 
-*   **Email:** intentional.labs.app@gmail.com
+* **Email:** intentional.labs.app@gmail.com
