@@ -1,6 +1,6 @@
 # Privacy Policy for Lux: Lower Screen Brightness
 
-**Last Updated: April 28, 2026**
+**Last Updated: May 8, 2026**
 
 This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **Lux: Lower Screen Brightness** (the "Service").
 
@@ -19,14 +19,25 @@ Lux uses the Android Accessibility Service API to provide its core functionality
 **User Consent:** This service is only activated with your explicit permission. You may disable this at any time in your device settings.
 
 ## 3. Third-Party Services
-To manage features and monetization, we use the following third-party services:
+To manage features and improve the app experience, we use the following third-party services:
 
 * **Google Play Services:** For core app functionality.
 * **Google Play Billing:** To process purchases securely.
 * **Adapty:** To manage paywalls and analyze anonymized purchase data to improve our offerings.
+* **PostHog:** To collect anonymous product analytics that help us understand how users interact with the app and improve the experience. PostHog does **not** collect any personally identifiable information, screen content, keystrokes, or device identifiers tied to your identity.
+
+### What PostHog collects:
+* **Anonymous usage events:** Such as which screens are viewed, which features are used, and whether the paywall is seen — helping us improve the app.
+* **Basic device metadata:** Such as OS version and screen size, for compatibility improvements.
+
+### What PostHog does NOT collect:
+* No names, emails, or personal identifiers
+* No screen content or keystrokes
+* No location data
+* No data is sold or shared with advertisers
 
 ## 4. Data Security
-We prioritize the security of your data. Since we do not collect personal information, your data risk is minimized. Any anonymized diagnostic data is handled through industry-standard encrypted channels by our third-party providers.
+We prioritize the security of your data. Since we do not collect personal information, your data risk is minimized. Any anonymized analytics data is handled through industry-standard encrypted channels by our third-party providers.
 
 ## 5. Children's Privacy
 Our services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children.
