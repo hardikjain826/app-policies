@@ -10,12 +10,12 @@ This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") co
 
 ## 1. Information We Collect
 
-We do not require an account, and we never collect your name, email address, contacts, location, photos, or the content of your voice recordings.
+We do not require an account, and we never send your name, email address, contacts, location, photos, or the content of your voice recordings off your device.
 
-To understand how the app is used and to provide subscriptions, the app sends a limited amount of non-identifying data off your device to the third-party processors described in Section 4:
+To understand how the app is used and to provide subscriptions, the app sends a limited amount of data off your device to the third-party processors described in Section 4. This data is pseudonymous — it is tied to a randomly generated identifier that we do not link to your real-world identity:
 
-*   **Anonymous app-usage analytics:** Which screens you view and which features you use, tied only to a randomly generated identifier — never to your real-world identity.
-*   **A device or app-instance identifier:** A random ID used to group your analytics events and to deliver and restore your subscription. It is not your hardware serial number and does not personally identify you.
+*   **App-usage analytics:** Which screens you view and which features you use, tied only to a randomly generated identifier.
+*   **A device or app-instance identifier:** A random ID used to group your analytics events and to deliver and restore your subscription. It is not your hardware serial number, but because it is persistent it may be considered personal data under some laws.
 *   **Purchase history:** When you start a trial or buy a subscription, our payments processor records the product, transaction status, and related subscription data so we can grant and restore access.
 *   **Diagnostics:** Basic performance and crash information used to keep the app stable.
 
@@ -54,13 +54,13 @@ All data transmitted off your device is encrypted in transit (HTTPS/TLS).
 
 ## 5. Children's Privacy
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. Since all data is stored locally and no accounts are required, there is no risk of inadvertent data collection.
+Our Service is not directed to anyone under the age of 13, and we do not knowingly collect personal information from children under 13. If you believe a child under 13 has used the app, please contact us at the address in Section 8 and we will take reasonable steps to delete the associated data.
 
 ## 6. Data Retention and Deletion
 
 Data stored locally on your device (Section 2) is deleted whenever you uninstall the app.
 
-For the limited analytics and purchase data held by our processors (Section 4): you can request deletion at any time by emailing us at the address in Section 8 — include the device or app-instance identifier shown in the app if you have it, and we will delete the associated data. Analytics data is otherwise retained for no longer than necessary to operate the Service.
+For the limited analytics and purchase data held by our processors (Section 4): you can request deletion at any time by emailing us at the address in Section 8. Because we do not maintain accounts, we identify your data only by the random device or app-instance identifier — please include it in your request (it is shown in the app). If you cannot provide this identifier, we may be unable to locate your specific data. Analytics data is otherwise retained for no longer than necessary to operate the Service.
 
 ## 7. Changes to This Privacy Policy
 

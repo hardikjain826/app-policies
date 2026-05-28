@@ -47,10 +47,14 @@ To the fullest extent permitted by law, Intentional Labs shall not be liable for
 
 The app is provided on an "as is" and "as available" basis. The developer makes no representations or warranties of any kind, express or implied, regarding the operation or availability of the app.
 
-## 9. Changes to This Agreement
+## 9. Governing Law
+
+These Terms are governed by and construed in accordance with the laws of India, without regard to its conflict-of-law provisions. Any disputes arising from or relating to these Terms or your use of the app shall be subject to the exclusive jurisdiction of the courts located in India. Nothing in these Terms affects any mandatory consumer-protection rights you may have under the laws of your country of residence.
+
+## 10. Changes to This Agreement
 
 We reserve the right to modify these terms at any time. We will do this by publishing the new terms on this page and updating the "Last Updated" date.
 
-## 10. Contact Us
+## 11. Contact Us
 
 If you have any questions about these Terms and Conditions, please contact us at **intentional.labs.app@gmail.com**.
