@@ -12,9 +12,19 @@ Please read these terms and conditions carefully before using the **You Are** ap
 
 By downloading or using the app, these terms will automatically apply to you. You should make sure therefore that you read them carefully before using the app.
 
-## 2. Not a Mental Health Service
+## 2. Wellness Disclaimer — No Medical or Health Claims
 
-**Important:** You Are is a personal wellness and affirmation tool designed to support emotional well-being and positive self-reflection. It is not a mental health service, medical device, or substitute for professional mental health care. If you are experiencing a mental health crisis, please seek help from a qualified healthcare professional or contact an emergency service in your area.
+**Important — please read this section carefully.**
+
+You Are is a personal wellness and affirmation tool designed to support emotional well-being and positive self-reflection. It is **not** a mental health service, medical device, diagnostic tool, or treatment, and it is **not** a substitute for professional medical, psychological, or psychiatric care.
+
+**No medical or health claims.** The app's content — including affirmations, topics, voice recordings, and audio features — is provided for general well-being, relaxation, focus, and personal-reflection purposes only. We make no claim, representation, or warranty that the app will diagnose, treat, cure, prevent, or improve any medical, psychological, or physical condition. Nothing in the app constitutes medical advice. Statements within the app and its marketing have not been evaluated by any medical or regulatory authority.
+
+**Audio frequencies.** Some features layer audio tones or frequencies (for example, Alpha, Theta, and Gamma settings). These are intended as relaxation and focus aids only. Any associated effects are subjective and experiential, vary from person to person, and are not clinically proven. If you have a medical condition (for example, epilepsy or a seizure disorder), are pregnant, use a pacemaker or hearing device, or have any concern, consult a qualified healthcare professional before using audio-frequency features, and stop using them if you feel unwell.
+
+**Individual results vary.** Any benefits described or implied are not guaranteed. Your experience depends on many personal factors outside our control. You agree not to use the app as a substitute for professional care, and to consult a qualified professional before relying on the app for any medical, psychological, or health-related purpose.
+
+**In a crisis.** If you are experiencing a mental health crisis or medical emergency, do not rely on this app — seek help immediately from a qualified healthcare professional or contact an emergency service in your area.
 
 ## 3. Intellectual Property
 
@@ -38,6 +48,7 @@ You Are offers an optional paid subscription, "Manifester," which unlocks premiu
 *   **Managing and cancelling:** You can manage or cancel your subscription at any time through your Google Play account settings. Cancellation stops future renewals; it does not retroactively refund the current period.
 *   **Refunds:** Purchases are handled by Google Play and are subject to Google Play's refund policies.
 *   **Complimentary access:** We may, at our discretion, grant free promotional access to the Manifester features. Such access is a goodwill gesture, may be time-limited, and may be modified or withdrawn at any time.
+*   **What a subscription buys:** A subscription grants access to the Manifester features only. It does not purchase, promise, or guarantee any specific emotional, wellness, or health outcome. As described in Section 2, individual results vary and are not guaranteed.
 
 ## 7. Limitation of Liability
 
@@ -45,7 +56,7 @@ To the fullest extent permitted by law, Intentional Labs shall not be liable for
 
 ## 8. Disclaimer
 
-The app is provided on an "as is" and "as available" basis. The developer makes no representations or warranties of any kind, express or implied, regarding the operation or availability of the app.
+The app is provided on an "as is" and "as available" basis. To the fullest extent permitted by law, the developer makes no representations or warranties of any kind, express or implied, regarding the operation or availability of the app, or any health, wellness, emotional, or other outcome from its use (see Section 2). This does not affect any mandatory consumer rights you may have under applicable law.
 
 ## 9. Governing Law
 
