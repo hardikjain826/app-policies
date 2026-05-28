@@ -4,7 +4,7 @@ layout: default
 
 # Terms and Conditions
 
-**Last Updated: April 7, 2026**
+**Last Updated: May 29, 2026**
 
 Please read these terms and conditions carefully before using the **You Are** application operated by **Intentional Labs**.
 
@@ -26,20 +26,31 @@ You are not allowed to copy, or modify the app, any part of the app, or our trad
 
 ## 5. App Functionality
 
-You Are is a daily affirmation application that provides personalised affirmation feeds, topic-based categories, custom affirmation creation, streak tracking, collection management, and optional daily reminder notifications. The app operates entirely on your device and does not guarantee any specific emotional or wellness outcomes.
+You Are is a daily affirmation application that provides personalised affirmation feeds, topic-based categories, custom affirmation creation, voice recording, streak tracking, collection management, and optional daily reminder notifications. Core content is delivered on your device; the app also uses third-party services for anonymous analytics and subscription processing as described in our Privacy Policy. The app does not guarantee any specific emotional or wellness outcomes.
 
-## 6. Limitation of Liability
+## 6. Subscriptions (Manifester)
+
+You Are offers an optional paid subscription, "Manifester," which unlocks premium features. The following terms apply:
+
+*   **Billing:** Subscriptions are billed through your Google Play account. Available plans and prices are shown in the app at the time of purchase.
+*   **Free trial:** Where a free trial is offered, you will not be charged during the trial period. Unless you cancel before the trial ends, your subscription will automatically convert to a paid subscription and you will be charged.
+*   **Auto-renewal:** Subscriptions renew automatically at the end of each billing period unless you cancel at least 24 hours before the period ends. Your payment method is charged for renewal within 24 hours of the end of the current period.
+*   **Managing and cancelling:** You can manage or cancel your subscription at any time through your Google Play account settings. Cancellation stops future renewals; it does not retroactively refund the current period.
+*   **Refunds:** Purchases are handled by Google Play and are subject to Google Play's refund policies.
+*   **Complimentary access:** We may, at our discretion, grant free promotional access to the Manifester features. Such access is a goodwill gesture, may be time-limited, and may be modified or withdrawn at any time.
+
+## 7. Limitation of Liability
 
 To the fullest extent permitted by law, Intentional Labs shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of or inability to use the app, including any emotional or wellbeing-related outcomes.
 
-## 7. Disclaimer
+## 8. Disclaimer
 
 The app is provided on an "as is" and "as available" basis. The developer makes no representations or warranties of any kind, express or implied, regarding the operation or availability of the app.
 
-## 8. Changes to This Agreement
+## 9. Changes to This Agreement
 
 We reserve the right to modify these terms at any time. We will do this by publishing the new terms on this page and updating the "Last Updated" date.
 
-## 9. Contact Us
+## 10. Contact Us
 
 If you have any questions about these Terms and Conditions, please contact us at **intentional.labs.app@gmail.com**.

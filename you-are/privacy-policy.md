@@ -4,15 +4,22 @@ layout: default
 
 # Privacy Policy for You Are
 
-**Last Updated: April 7, 2026**
+**Last Updated: May 29, 2026**
 
 This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **You Are** (the "Service").
 
-## 1. Information Collection
+## 1. Information We Collect
 
-**We do not collect any personal data.**
+We do not require an account, and we never collect your name, email address, contacts, location, photos, or the content of your voice recordings.
 
-The Service operates entirely locally on your device. We do not transmit, store, or share any personal information, usage analytics, or session data to external servers.
+To understand how the app is used and to provide subscriptions, the app sends a limited amount of non-identifying data off your device to the third-party processors described in Section 4:
+
+*   **Anonymous app-usage analytics:** Which screens you view and which features you use, tied only to a randomly generated identifier — never to your real-world identity.
+*   **A device or app-instance identifier:** A random ID used to group your analytics events and to deliver and restore your subscription. It is not your hardware serial number and does not personally identify you.
+*   **Purchase history:** When you start a trial or buy a subscription, our payments processor records the product, transaction status, and related subscription data so we can grant and restore access.
+*   **Diagnostics:** Basic performance and crash information used to keep the app stable.
+
+This data is collected over time (not just in real time) and is required to operate the app — it cannot be turned off from within the app. We do not use it for advertising, and we do not sell or share it with data brokers or advertising partners.
 
 ## 2. Data Stored Locally
 
@@ -22,9 +29,10 @@ The following data is stored locally on your device:
 *   **Collections & Custom Affirmations:** Any affirmation collections you create and any custom affirmations you write are stored solely on your device.
 *   **Streaks & Progress:** Your streak count and session activity, used only to display your progress within the app.
 *   **Preferences:** App settings such as your name, gender identity, muted words, selected topics, notification times, theme selection, and dark mode preference.
+*   **Voice Recordings:** Any affirmations you record in your own voice are stored solely on your device and are never uploaded to us or any third party.
 *   **No Account Required:** You do not need to create an account or provide an email address to use the app.
 
-This data is never transmitted off your device and is deleted when you uninstall the app.
+This locally stored data is never transmitted off your device and is deleted when you uninstall the app.
 
 ## 3. Permissions
 
@@ -35,15 +43,24 @@ The app may request the following permissions:
 
 ## 4. Third-Party Services
 
-The app does not currently use any third-party analytics, advertising, or tracking services that collect data.
+We use the following third-party processors, who handle data only on our behalf:
+
+*   **PostHog** — anonymous product analytics and diagnostics. Used to understand which features are used and to monitor app stability. PostHog receives your analytics events and the random identifier described in Section 1. See [PostHog's Privacy Policy](https://posthog.com/privacy).
+*   **Adapty** — subscription and in-app purchase management. Used to process your trial or subscription, deliver entitlements, and restore purchases. Adapty receives purchase data and a device or app-instance identifier. See [Adapty's Privacy Policy](https://adapty.io/privacy/).
+
+These providers act as data processors and do not use your data for their own advertising or sell it. Payment itself is handled by Google Play; we never see or store your card details.
+
+All data transmitted off your device is encrypted in transit (HTTPS/TLS).
 
 ## 5. Children's Privacy
 
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. Since all data is stored locally and no accounts are required, there is no risk of inadvertent data collection.
 
-## 6. Data Deletion
+## 6. Data Retention and Deletion
 
-All your data is stored in a local database on your device. You can delete all data at any time by uninstalling the app. Reinstalling will start fresh with no prior data.
+Data stored locally on your device (Section 2) is deleted whenever you uninstall the app.
+
+For the limited analytics and purchase data held by our processors (Section 4): you can request deletion at any time by emailing us at the address in Section 8 — include the device or app-instance identifier shown in the app if you have it, and we will delete the associated data. Analytics data is otherwise retained for no longer than necessary to operate the Service.
 
 ## 7. Changes to This Privacy Policy
 
