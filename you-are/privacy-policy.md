@@ -4,7 +4,7 @@ layout: default
 
 # Privacy Policy for You Are
 
-**Last Updated: May 29, 2026**
+**Last Updated: June 29, 2026**
 
 This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **You Are** (the "Service").
 
@@ -15,6 +15,7 @@ We do not require an account, and we never send your name, email address, contac
 To understand how the app is used and to provide subscriptions, the app sends a limited amount of data off your device to the third-party processors described in Section 4. This data is pseudonymous — it is tied to a randomly generated identifier that we do not link to your real-world identity:
 
 *   **App-usage analytics:** Which screens you view and which features you use, tied only to a randomly generated identifier.
+*   **Session recordings:** A masked replay of your in-app sessions — taps, scrolls, and screen navigation — used to find and fix usability problems. Text and images are masked on your device before anything is sent, so these recordings do not capture your name, what you type, your custom affirmations, or other personal content, and no audio is recorded.
 *   **A device or app-instance identifier:** A random ID used to group your analytics events and to deliver and restore your subscription. It is not your hardware serial number, but because it is persistent it may be considered personal data under some laws.
 *   **Purchase history:** When you start a trial or buy a subscription, our payments processor records the product, transaction status, and related subscription data so we can grant and restore access.
 *   **Diagnostics:** Basic performance and crash information used to keep the app stable.
@@ -45,7 +46,7 @@ The app may request the following permissions:
 
 We use the following third-party processors, who handle data only on our behalf:
 
-*   **PostHog** — anonymous product analytics and diagnostics. Used to understand which features are used and to monitor app stability. PostHog receives your analytics events and the random identifier described in Section 1. See [PostHog's Privacy Policy](https://posthog.com/privacy).
+*   **PostHog** — anonymous product analytics, diagnostics, and masked session recordings. Used to understand which features are used, monitor app stability, and find usability problems. PostHog receives your analytics events, masked session recordings, and the random identifier described in Section 1. See [PostHog's Privacy Policy](https://posthog.com/privacy).
 *   **Adapty** — subscription and in-app purchase management. Used to process your trial or subscription, deliver entitlements, and restore purchases. Adapty receives purchase data and a device or app-instance identifier. See [Adapty's Privacy Policy](https://adapty.io/privacy/).
 
 These providers act as data processors and do not use your data for their own advertising or sell it. Payment itself is handled by Google Play; we never see or store your card details.

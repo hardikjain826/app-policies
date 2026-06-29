@@ -4,7 +4,7 @@ layout: default
 
 # Terms and Conditions
 
-**Last Updated: May 29, 2026**
+**Last Updated: June 29, 2026**
 
 Please read these terms and conditions carefully before using the **You Are** application operated by **Intentional Labs**.
 
@@ -36,7 +36,7 @@ You are not allowed to copy, or modify the app, any part of the app, or our trad
 
 ## 5. App Functionality
 
-You Are is a daily affirmation application that provides personalised affirmation feeds, topic-based categories, custom affirmation creation, voice recording, streak tracking, collection management, and optional daily reminder notifications. Core content is delivered on your device; the app also uses third-party services for anonymous analytics and subscription processing as described in our Privacy Policy. The app does not guarantee any specific emotional or wellness outcomes.
+You Are is a daily affirmation application that provides personalised affirmation feeds, topic-based categories, custom affirmation creation, voice recording, streak tracking, collection management, and optional daily reminder notifications. Core content is delivered on your device; the app also uses third-party services for analytics, session recordings, and subscription processing as described in our Privacy Policy. The app does not guarantee any specific emotional or wellness outcomes.
 
 ## 6. Subscriptions (Manifester)
 
