@@ -4,7 +4,7 @@ layout: default
 
 # Terms and Conditions
 
-**Last Updated: July 21, 2026**
+**Last Updated: August 7, 2026**
 
 Please read these terms and conditions carefully before using the **Gratitude Forest** application operated by **Intentional Labs**.
 
@@ -34,23 +34,19 @@ You are not allowed to copy, or modify the app, any part of the app, or our trad
 
 ## 5. App Functionality
 
-Gratitude Forest is a gratitude journaling application that lets you plant trees in a personal forest by recording moments of gratitude through text or voice. The app provides an isometric forest visualisation, tree growth over time, the ability to revisit past entries, and surfaced memories on app open. Core content is stored on your device; the app also uses third-party services for analytics, session recordings, and subscription processing as described in our Privacy Policy. The app does not guarantee any specific emotional or wellness outcomes.
+Gratitude Forest is a gratitude journaling application that lets you plant trees in a personal forest by recording moments of gratitude through text or voice. The app provides an isometric forest visualisation, tree growth over time, the ability to revisit past entries, and surfaced memories on app open.
+
+The app is free and contains no advertising, no analytics, and no in-app purchases. All of your content is stored on your device — see our Privacy Policy for details, including how voice dictation uses your device's own speech recognition. The app does not guarantee any specific emotional or wellness outcomes.
 
 ## 6. Your Data
 
 All gratitude entries, voice recordings, forest data, and preferences are stored solely on your device. We do not have access to your data, cannot recover it, and cannot back it up for you. You are responsible for any data loss resulting from device loss, damage, or app uninstallation. Please refer to our Privacy Policy for full details.
 
-## 7. Subscriptions (Evergreen)
+## 7. Price and Purchases
 
-Gratitude Forest offers an optional paid subscription, "Evergreen," which unlocks premium features. The following terms apply:
+Gratitude Forest is currently **free**, with no subscriptions and no in-app purchases. There is nothing to buy, and no payment details are ever requested.
 
-*   **Billing:** Subscriptions are billed through your Google Play account. Available plans and prices are shown in the app at the time of purchase.
-*   **Free trial:** Where a free trial is offered, you will not be charged during the trial period. Unless you cancel before the trial ends, your subscription will automatically convert to a paid subscription and you will be charged.
-*   **Auto-renewal:** Subscriptions renew automatically at the end of each billing period unless you cancel at least 24 hours before the period ends. Your payment method is charged for renewal within 24 hours of the end of the current period.
-*   **Managing and cancelling:** You can manage or cancel your subscription at any time through your Google Play account settings. Cancellation stops future renewals; it does not retroactively refund the current period.
-*   **Refunds:** Purchases are handled by Google Play and are subject to Google Play's refund policies.
-*   **Complimentary access:** We may, at our discretion, grant free promotional access to the Evergreen features. Such access is a goodwill gesture, may be time-limited, and may be modified or withdrawn at any time.
-*   **What a subscription buys:** A subscription grants access to the Evergreen features only. It does not purchase, promise, or guarantee any specific emotional, wellness, or health outcome. As described in Section 2, individual results vary and are not guaranteed. The core practice — planting, walking the forest, revisiting entries, and surfaced memories — will always be free.
+If paid features are introduced in a future version, these Terms and our Privacy Policy will be updated before that version is released, and the subscription terms — billing, renewal, cancellation, and refunds — will be set out here in full. The core practice — planting, walking the forest, revisiting entries, and surfaced memories — will remain free.
 
 ## 8. Limitation of Liability
 

@@ -4,70 +4,83 @@ layout: default
 
 # Privacy Policy for Gratitude Forest
 
-**Last Updated: July 21, 2026**
+**Last Updated: August 7, 2026**
 
-This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **Gratitude Forest** (the "Service").
+This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") handles your information when you use our mobile application, **Gratitude Forest** (the "Service").
 
-## 1. Information We Collect
+## 1. Summary
 
-We do not require an account, and we never send your name, email address, contacts, location, photos, or the content of your gratitude entries or voice recordings off your device.
+**We do not collect any data from you.**
 
-To understand how the app is used and to provide subscriptions, the app sends a limited amount of data off your device to the third-party processors described in Section 4. This data is pseudonymous — it is tied to a randomly generated identifier that we do not link to your real-world identity:
+Gratitude Forest has no accounts, no sign-in, no analytics, no advertising, and no trackers. We do not operate servers that receive your information, and we have no way to see what you write. Everything you create in the app is stored on your device and stays there.
 
-*   **App-usage analytics:** Which screens you view and which features you use, tied only to a randomly generated identifier.
-*   **Session recordings:** A masked replay of your in-app sessions — taps, scrolls, and screen navigation — used to find and fix usability problems. Text and images are masked on your device before anything is sent, so these recordings do not capture your gratitude entries, voice recordings, or other personal content, and no audio is recorded.
-*   **A device or app-instance identifier:** A random ID used to group your analytics events and to deliver and restore your subscription. It is not your hardware serial number, but because it is persistent it may be considered personal data under some laws.
-*   **Purchase history:** When you start a trial or buy a subscription, our payments processor records the product, transaction status, and related subscription data so we can grant and restore access.
-*   **Diagnostics:** Basic performance and crash information used to keep the app stable.
+The one exception worth reading is Section 4, which explains what happens when you dictate an entry with your voice.
 
-This data is collected over time (not just in real time) and is required to operate the app — it cannot be turned off from within the app. We do not use it for advertising, and we do not sell or share it with data brokers or advertising partners.
+## 2. Information We Collect
 
-## 2. Data Stored Locally
+None.
 
-All of the following data is created and stored solely on your device:
+Specifically, we do not collect your name, email address, phone number, contacts, location, photos, advertising identifier, device identifier, usage analytics, crash reports, or the content of your gratitude entries or voice recordings.
 
-*   **Gratitude Entries:** The text of every gratitude moment you plant, stored in a local database on your device.
-*   **Voice Recordings:** Any gratitude entries you record in your own voice are stored solely on your device and are never uploaded to us or any third party.
-*   **Your Forest:** The visual state of your forest — tree positions, species, growth stages, and metadata — is stored locally.
-*   **Preferences:** App settings such as your favorite camera position, audio settings, and notification preferences.
-*   **No Account Required:** You do not need to create an account or provide an email address to use the app.
+We do not use cookies or similar tracking technologies. We do not sell, share, or disclose personal information, because we do not have any.
 
-This locally stored data is never transmitted off your device and is deleted when you uninstall the app.
+## 3. Data Stored on Your Device
 
-## 3. Permissions
+All of the following is created and stored solely on your device, in the app's private storage:
 
-The app may request the following permissions:
+*   **Gratitude entries** — the text of every moment you plant, kept in a local database.
+*   **Voice recordings** — audio you record is written to the app's private folder on your device and is never uploaded to us.
+*   **Your forest** — tree positions, species, growth stages, and related detail.
+*   **Preferences** — settings such as your saved camera view, sound, and notification choices.
 
-*   **Microphone:** Used to record voice gratitude entries on your device. Audio is stored locally and is never uploaded or transmitted.
-*   **Post Notifications:** Used to schedule local notifications that surface past gratitude memories. Notification content is generated entirely on-device and no data is transmitted to external servers.
-*   **Boot Completed:** Used to reschedule your notifications after a device restart, so they continue working without needing to open the app.
+This data is never transmitted to us. It is removed when you uninstall the app. Because we never receive a copy, we cannot recover it for you if your device is lost or the app is deleted.
 
-## 4. Third-Party Services
+## 4. Voice dictation and your device's speech recognition
 
-We use the following third-party processors, who handle data only on our behalf:
+If you choose to dictate an entry rather than type it, the app uses your device's **built-in speech recognition** — Apple's on iOS, Google's on Android — to turn speech into text.
 
-*   **PostHog** — anonymous product analytics, diagnostics, and masked session recordings. Used to understand which features are used, monitor app stability, and find usability problems. PostHog receives your analytics events, masked session recordings, and the random identifier described in Section 1. See [PostHog's Privacy Policy](https://posthog.com/privacy).
-*   **Adapty** — subscription and in-app purchase management. Used to process your trial or subscription, deliver entitlements, and restore purchases. Adapty receives purchase data and a device or app-instance identifier. See [Adapty's Privacy Policy](https://adapty.io/privacy/).
+**This is a service provided by your device's operating system, not by us.** Depending on your device, your language, and your system settings, that service may process the audio on the device itself, or may send it to Apple's or Google's servers to be transcribed. We do not control which, we do not receive the audio, and we do not receive the transcript from them — the resulting text is handed back to the app on your device and saved locally like anything you typed.
 
-These providers act as data processors and do not use your data for their own advertising or sell it. Payment itself is handled by Google Play; we never see or store your card details.
+If you would prefer no audio to reach a third party at all, **type your entries instead of dictating them.** Typing involves no external service of any kind.
 
-All data transmitted off your device is encrypted in transit (HTTPS/TLS).
+For details of how those companies handle speech data, see [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) and [Google's Privacy Policy](https://policies.google.com/privacy).
 
-## 5. Children's Privacy
+## 5. Permissions
 
-Our Service is not directed to anyone under the age of 13, and we do not knowingly collect personal information from children under 13. If you believe a child under 13 has used the app, please contact us at the address in Section 8 and we will take reasonable steps to delete the associated data.
+The app may ask for the following. Each is optional, and the app remains fully usable if you decline.
 
-## 6. Data Retention and Deletion
+*   **Microphone** — to record a spoken gratitude entry. Audio is saved to your device.
+*   **Speech recognition** (iOS) — to convert that speech to text, as described in Section 4.
+*   **Notifications** — to deliver occasional reminders and surfaced memories. These are scheduled and generated entirely on your device; no data is sent anywhere to produce them.
+*   **Run at startup** (Android) — to re-schedule your local notifications after a restart, so they keep working without opening the app.
 
-Data stored locally on your device (Section 2) is deleted whenever you uninstall the app.
+## 6. Third-Party Services
 
-For the limited analytics and purchase data held by our processors (Section 4): you can request deletion at any time by emailing us at the address in Section 8. Because we do not maintain accounts, we identify your data only by the random device or app-instance identifier — please include it in your request (it is shown in the app). If you cannot provide this identifier, we may be unable to locate your specific data. Analytics data is otherwise retained for no longer than necessary to operate the Service.
+**None.** The app contains no analytics SDK, no advertising SDK, no crash-reporting service, and no payment or subscription processor. It makes no network requests of its own.
 
-## 7. Changes to This Privacy Policy
+The only external party that may be involved in normal use is your device's own operating-system speech recognition, described in Section 4.
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date above. You are advised to review this page periodically for any changes.
+## 7. Children's Privacy
 
-## 8. Contact Us
+The Service is not directed to children under 13. Since we collect no information from anyone, we do not knowingly or unknowingly collect personal information from children.
+
+## 8. Data Retention and Deletion
+
+Because we hold no data about you, there is nothing for us to retain, and no deletion request to make.
+
+To delete everything the app has stored, delete individual entries within the app, or uninstall the app to remove all of it at once.
+
+## 9. Your Rights
+
+Privacy laws such as the GDPR and CCPA give you rights to access, correct, delete, or port your personal data, and to know whether it is sold. These rights are directed at organisations that hold your data. We hold none — your data is on your device, under your control, and you can read, edit, or delete it in the app at any time. We do not sell or share personal information.
+
+## 10. Changes to This Privacy Policy
+
+We may update this policy from time to time, and will update the "Last Updated" date above.
+
+If a future version of the app introduces anything that transmits data — analytics, accounts, cloud backup, or subscriptions — **this policy will be updated before that version is released**, and the change will be described here.
+
+## 11. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
 
