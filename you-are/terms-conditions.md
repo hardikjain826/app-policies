@@ -4,9 +4,9 @@ layout: default
 
 # Terms and Conditions
 
-**Last Updated: June 29, 2026**
+**Last Updated: August 15, 2026**
 
-Please read these terms and conditions carefully before using the **You Are** application operated by **Intentional Labs**.
+Please read these terms and conditions carefully before using the **You Are** application operated by **Intentional Labs**. These terms apply to the app on all platforms where it is available, including the Apple App Store and Google Play. Where a section applies to only one platform, this is stated.
 
 ## 1. Conditions of Use
 
@@ -36,17 +36,19 @@ You are not allowed to copy, or modify the app, any part of the app, or our trad
 
 ## 5. App Functionality
 
-You Are is a daily affirmation application that provides personalised affirmation feeds, topic-based categories, custom affirmation creation, voice recording, streak tracking, collection management, and optional daily reminder notifications. Core content is delivered on your device; the app also uses third-party services for analytics, session recordings, and subscription processing as described in our Privacy Policy. The app does not guarantee any specific emotional or wellness outcomes.
+You Are is a daily affirmation application that provides personalised affirmation feeds, topic-based categories, custom affirmation creation, voice recording and playlists, custom backgrounds using photos you choose, streak tracking, collection management, and optional daily reminder notifications. Core content is delivered on your device; the app also uses third-party services for analytics, session recordings, and — where subscriptions are offered — subscription processing, as described in our Privacy Policy. The app does not guarantee any specific emotional or wellness outcomes.
 
 ## 6. Subscriptions (Manifester)
 
-You Are offers an optional paid subscription, "Manifester," which unlocks premium features. The following terms apply:
+**Availability.** Subscriptions are not offered on every platform. Where the app offers no in-app purchase, all features are available at no cost and nothing in this section applies to you — there is no charge, no trial, and no renewal. This section applies only where the app presents a paid subscription, "Manifester," which unlocks premium features.
 
-*   **Billing:** Subscriptions are billed through your Google Play account. Available plans and prices are shown in the app at the time of purchase.
+Where subscriptions are offered, the following terms apply:
+
+*   **Billing:** Subscriptions are billed through the account you used to download the app — your Apple ID on the App Store, or your Google account on Google Play. Available plans and prices are shown in the app at the time of purchase.
 *   **Free trial:** Where a free trial is offered, you will not be charged during the trial period. Unless you cancel before the trial ends, your subscription will automatically convert to a paid subscription and you will be charged.
 *   **Auto-renewal:** Subscriptions renew automatically at the end of each billing period unless you cancel at least 24 hours before the period ends. Your payment method is charged for renewal within 24 hours of the end of the current period.
-*   **Managing and cancelling:** You can manage or cancel your subscription at any time through your Google Play account settings. Cancellation stops future renewals; it does not retroactively refund the current period.
-*   **Refunds:** Purchases are handled by Google Play and are subject to Google Play's refund policies.
+*   **Managing and cancelling:** You can manage or cancel your subscription at any time in your account settings — Settings › your name › Subscriptions on iOS, or the Subscriptions section of the Google Play app on Android. Cancellation stops future renewals; it does not retroactively refund the current period.
+*   **Refunds:** Purchases are handled by the relevant app store and are subject to that store's refund policies — Apple's for App Store purchases, Google's for Google Play purchases.
 *   **Complimentary access:** We may, at our discretion, grant free promotional access to the Manifester features. Such access is a goodwill gesture, may be time-limited, and may be modified or withdrawn at any time.
 *   **What a subscription buys:** A subscription grants access to the Manifester features only. It does not purchase, promise, or guarantee any specific emotional, wellness, or health outcome. As described in Section 2, individual results vary and are not guaranteed.
 
