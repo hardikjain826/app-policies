@@ -4,7 +4,7 @@ layout: default
 
 # Privacy Policy for You Are
 
-**Last Updated: August 15, 2026**
+**Last Updated: August 19, 2026**
 
 This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **You Are** (the "Service"). It applies to the app on all platforms where it is available, including the App Store and Google Play. Where a section applies to only one platform, this is stated.
 
@@ -12,12 +12,12 @@ This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") co
 
 We do not require an account, and we never send your name, email address, contacts, location, photos, or the content of your voice recordings off your device.
 
-To understand how the app is used, and to provide subscriptions where they are offered, the app sends a limited amount of data off your device to the third-party processors described in Section 4. This data is pseudonymous — it is tied to a randomly generated identifier that we do not link to your real-world identity:
+To understand how the app is used, and to provide subscriptions, the app sends a limited amount of data off your device to the third-party processors described in Section 4. This data is pseudonymous — it is tied to a randomly generated identifier that we do not link to your real-world identity:
 
 *   **App-usage analytics:** Which screens you view and which features you use, tied only to a randomly generated identifier.
 *   **Session recordings:** A masked replay of your in-app sessions — taps, scrolls, and screen navigation — used to find and fix usability problems. Text and images are masked on your device before anything is sent, so these recordings do not capture your name, what you type, your custom affirmations, or other personal content, and no audio is recorded.
-*   **A device or app-instance identifier:** A random ID used to group your analytics events and, where subscriptions are offered, to deliver and restore your subscription. It is not your hardware serial number, but because it is persistent it may be considered personal data under some laws.
-*   **Purchase history (only where subscriptions are offered):** When you start a trial or buy a subscription, our payments processor records the product, transaction status, and related subscription data so we can grant and restore access. On platforms where the app offers no in-app purchases, no purchase data is collected and our subscription processor is not active.
+*   **A device or app-instance identifier:** A random ID used to group your analytics events and to deliver and restore your subscription. It is not your hardware serial number, but because it is persistent it may be considered personal data under some laws.
+*   **Purchase history:** When you start a trial or buy a subscription, our payments processor records the product, transaction status, and related subscription data so we can grant and restore access.
 *   **Diagnostics:** Basic performance and crash information used to keep the app stable.
 
 This data is collected over time (not just in real time) and is required to operate the app — it cannot be turned off from within the app. We do not use it for advertising, and we do not sell or share it with data brokers or advertising partners. We do not use it to track you across apps or websites owned by other companies.
@@ -52,9 +52,9 @@ The app asks for a permission only at the point where you use the feature that n
 We use the following third-party processors, who handle data only on our behalf:
 
 *   **PostHog** — product analytics, diagnostics, and masked session recordings. Used to understand which features are used, monitor app stability, and find usability problems. PostHog receives your analytics events, masked session recordings, and the random identifier described in Section 1. See [PostHog's Privacy Policy](https://posthog.com/privacy).
-*   **Adapty** — subscription and in-app purchase management, on platforms where the app offers subscriptions. Used to process your trial or subscription, deliver entitlements, and restore purchases. Adapty receives purchase data and a device or app-instance identifier. Where the app offers no in-app purchases, this processor is not active and receives nothing. See [Adapty's Privacy Policy](https://adapty.io/privacy/).
+*   **Adapty** — subscription and in-app purchase management. Used to process your trial or subscription, deliver entitlements, and restore purchases. Adapty receives purchase data and a device or app-instance identifier. See [Adapty's Privacy Policy](https://adapty.io/privacy/).
 
-These providers act as data processors and do not use your data for their own advertising or sell it. Where the app offers purchases, payment itself is handled by the app store you downloaded the app from — the Apple App Store or Google Play — and we never see or store your card details.
+These providers act as data processors and do not use your data for their own advertising or sell it. Payment itself is handled by the app store you downloaded the app from — the Apple App Store or Google Play — and we never see or store your card details.
 
 All data transmitted off your device is encrypted in transit (HTTPS/TLS).
 

@@ -4,7 +4,7 @@ layout: default
 
 # Terms and Conditions
 
-**Last Updated: August 15, 2026**
+**Last Updated: August 19, 2026**
 
 Please read these terms and conditions carefully before using the **You Are** application operated by **Intentional Labs**. These terms apply to the app on all platforms where it is available, including the Apple App Store and Google Play. Where a section applies to only one platform, this is stated.
 
@@ -36,13 +36,11 @@ You are not allowed to copy, or modify the app, any part of the app, or our trad
 
 ## 5. App Functionality
 
-You Are is a daily affirmation application that provides personalised affirmation feeds, topic-based categories, custom affirmation creation, voice recording and playlists, custom backgrounds using photos you choose, streak tracking, collection management, and optional daily reminder notifications. Core content is delivered on your device; the app also uses third-party services for analytics, session recordings, and — where subscriptions are offered — subscription processing, as described in our Privacy Policy. The app does not guarantee any specific emotional or wellness outcomes.
+You Are is a daily affirmation application that provides personalised affirmation feeds, topic-based categories, custom affirmation creation, voice recording and playlists, custom backgrounds using photos you choose, streak tracking, collection management, and optional daily reminder notifications. Core content is delivered on your device; the app also uses third-party services for analytics, session recordings, and subscription processing, as described in our Privacy Policy. The app does not guarantee any specific emotional or wellness outcomes.
 
 ## 6. Subscriptions (Manifester)
 
-**Availability.** Subscriptions are not offered on every platform. Where the app offers no in-app purchase, all features are available at no cost and nothing in this section applies to you — there is no charge, no trial, and no renewal. This section applies only where the app presents a paid subscription, "Manifester," which unlocks premium features.
-
-Where subscriptions are offered, the following terms apply:
+The app offers a paid subscription, "Manifester," which unlocks premium features. It is available on both the Apple App Store and Google Play. The following terms apply:
 
 *   **Billing:** Subscriptions are billed through the account you used to download the app — your Apple ID on the App Store, or your Google account on Google Play. Available plans and prices are shown in the app at the time of purchase.
 *   **Free trial:** Where a free trial is offered, you will not be charged during the trial period. Unless you cancel before the trial ends, your subscription will automatically convert to a paid subscription and you will be charged.
