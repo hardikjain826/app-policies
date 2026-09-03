@@ -4,9 +4,9 @@ layout: default
 
 # Terms and Conditions
 
-**Last Updated: August 19, 2026**
+**Last Updated: September 4, 2026**
 
-Please read these terms and conditions carefully before using the **You Are** application operated by **Intentional Labs**. These terms apply to the app on all platforms where it is available, including the Apple App Store and Google Play. Where a section applies to only one platform, this is stated.
+Please read these terms and conditions carefully before using the **Aava: Self-Talk Mastery (formerly You are: voice affirmations)** application operated by **Intentional Labs**. These terms apply to the app on all platforms where it is available, including the Apple App Store and Google Play. Where a section applies to only one platform, this is stated.
 
 ## 1. Conditions of Use
 
@@ -16,7 +16,7 @@ By downloading or using the app, these terms will automatically apply to you. Yo
 
 **Important — please read this section carefully.**
 
-You Are is a personal wellness and affirmation tool designed to support emotional well-being and positive self-reflection. It is **not** a mental health service, medical device, diagnostic tool, or treatment, and it is **not** a substitute for professional medical, psychological, or psychiatric care.
+Aava is a personal wellness and affirmation tool designed to support emotional well-being and positive self-reflection. It is **not** a mental health service, medical device, diagnostic tool, or treatment, and it is **not** a substitute for professional medical, psychological, or psychiatric care.
 
 **No medical or health claims.** The app's content — including affirmations, topics, voice recordings, and audio features — is provided for general well-being, relaxation, focus, and personal-reflection purposes only. We make no claim, representation, or warranty that the app will diagnose, treat, cure, prevent, or improve any medical, psychological, or physical condition. Nothing in the app constitutes medical advice. Statements within the app and its marketing have not been evaluated by any medical or regulatory authority.
 
@@ -36,7 +36,7 @@ You are not allowed to copy, or modify the app, any part of the app, or our trad
 
 ## 5. App Functionality
 
-You Are is a daily affirmation application that provides personalised affirmation feeds, topic-based categories, custom affirmation creation, voice recording and playlists, custom backgrounds using photos you choose, streak tracking, collection management, and optional daily reminder notifications. Core content is delivered on your device; the app also uses third-party services for analytics, session recordings, and subscription processing, as described in our Privacy Policy. The app does not guarantee any specific emotional or wellness outcomes.
+Aava is a daily affirmation application that provides personalised affirmation feeds, topic-based categories, custom affirmation creation, voice recording and playlists, custom backgrounds using photos you choose, streak tracking, collection management, and optional daily reminder notifications. Core content is delivered on your device; the app also uses third-party services for analytics, session recordings, and subscription processing, as described in our Privacy Policy. The app does not guarantee any specific emotional or wellness outcomes.
 
 ## 6. Subscriptions (Manifester)
 

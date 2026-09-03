@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Privacy Policy for You Are
+# Privacy Policy for Aava: Self-Talk Mastery (formerly You are: voice affirmations)
 
-**Last Updated: August 19, 2026**
+**Last Updated: September 4, 2026**
 
-This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **You Are** (the "Service"). It applies to the app on all platforms where it is available, including the App Store and Google Play. Where a section applies to only one platform, this is stated.
+This Privacy Policy describes how **Intentional Labs** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application, **Aava: Self-Talk Mastery (formerly You are: voice affirmations)** (the "Service"). It applies to the app on all platforms where it is available, including the App Store and Google Play. Where a section applies to only one platform, this is stated.
 
 ## 1. Information We Collect
 
